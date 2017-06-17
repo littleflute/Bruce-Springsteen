@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Outlaw Pete.mp3";		
+f[2]	= "02 My Lucky Day.mp3";		
+f[3]	= "03 Working on a Dream.mp3";		
+f[4]	= "04 Queen of the Supermarket.mp3";		
+f[5]	= "05 What Love Can Do.mp3";		
+f[6]	= "06 This Life.mp3";		
+f[7]	= "07 Good Eye.mp3";		
+f[8]	= "08 Tomorrow Never Knows.mp3";		
+f[9]	= "09 Life Itself.mp3";		
+f[10]	= "10 Kingdom of Days.mp3";		
+f[11]	= "11 Surprise, Surprise.mp3";		
+f[12]	= "12 The Last Carnival.mp3";		
+f[13]	= "13 The Wrestler [-].mp3";		
